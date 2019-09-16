@@ -1,7 +1,7 @@
 {
   "name": "jsonapi-store-relationaldb",
   "version": "5.0.0",
-  "description": "Relational data store for jsonapi-server.",
+  "description": "Snowflake-SDK specific relational data store for jsonapi-server.",
   "keywords": [
     "json:api",
     "jsonapi",
